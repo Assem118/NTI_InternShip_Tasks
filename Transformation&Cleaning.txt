@@ -1,0 +1,16 @@
+---------------------------------------------------Transformation % Cleaning---------------------------------------------------------
+1. Detect Data Type
+2. Remove Blank/Empty Rows
+3. Remove Duplicates
+4. Remove Column "Notes"
+5. Filter Out Error And Null From Columns
+6. Applying First Rows As Column Header
+7. Applying Append On 5 Queries Cause They're The Same Structure
+
+Before Cleaning & Transformation: 100,000 Rows
+After Cleaning & Transformation: 73,257 Rows
+
+Before Cleaning & Transformation: 9 Columns
+After Cleaning & Transformation: 8 Columns
+
+------------------------------------------------------------Reporting-----------------------------------------------------------------
